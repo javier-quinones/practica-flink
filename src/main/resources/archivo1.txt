@@ -1,0 +1,5 @@
+palabra1 palabra2 palabra3 palabra4 palabra5
+palabra2 palabra3 palabra4 palabra5
+palabra3 palabra4 palabra5
+palabra4 palabra5
+palabra5
